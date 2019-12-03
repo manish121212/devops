@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/home/laxmi/.cache/upstart/unity-panel-service.log" 2019-12-2-19:10:39
+"/home/laxmi/.cache/upstart/unity-settings-daemon.log" 2019-12-2-19:10:39
+"/home/laxmi/.cache/upstart/dbus.log" 2019-12-2-19:10:39
+"/home/laxmi/.cache/upstart/ssh-agent.log" 2019-12-2-19:10:39
+"/home/laxmi/.cache/upstart/gpg-agent.log" 2019-12-2-19:10:39
+"/home/laxmi/.cache/upstart/indicator-sound.log" 2019-12-2-19:10:39
+"/home/laxmi/.cache/upstart/window-stack-bridge.log" 2019-12-2-19:10:39
+"/home/laxmi/.cache/upstart/hud.log" 2019-12-2-19:10:39
+"/home/laxmi/.cache/upstart/upstart-event-bridge.log" 2019-12-2-19:10:39
+"/home/laxmi/.cache/upstart/gnome-keyring-ssh.log" 2019-12-2-19:10:39
+"/home/laxmi/.cache/upstart/unity7.log" 2019-12-2-19:10:39
+"/home/laxmi/.cache/upstart/update-notifier-release.log" 2019-12-2-19:0:0
